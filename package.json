@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"test:array": "ava ./arrays.test.js"
+		
+	},
+	"devDependencies": {
+		"ava": "^0.25.0"
+	}
+}
